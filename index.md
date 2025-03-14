@@ -7,4 +7,12 @@
 ```
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 this is just a test,i tried to use different header sizes😉
