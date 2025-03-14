@@ -12,7 +12,7 @@ var myVar = "Hello, world!";
 ```
 
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [x] Meeting with Cristo
+- [x] Get to level 4
 - [ ] Introduce myself to the world
 this is just a test,i tried to use different header sizes😉
